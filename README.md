@@ -17,6 +17,9 @@ Welcome to my Portfolio!
 ## [Data Analytics]()
 
 ## [Machine Learning]()
+| Project Link | Area | Project Description |
+| --- | --- | --- |
+| 📦 [ Hotel Cancellation Prediction]() | Model | I conducted a comprehensive analysis of user churn by examining customer behavior, from data preprocessing to model deployment. I engineered features and implemented a model pipeline—including Random Forest, Boosting, and ANN—optimizing each to achieve high accuracy and recall. This project provided actionable insights that supported strategic decisions to reduce churn. |
 
 ## [Deep Learning]()
 
