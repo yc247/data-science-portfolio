@@ -1,6 +1,6 @@
 # Yucheng Porfolio 💼
 
-Welcome to my Portfolio!
+Welcome to my portfolio! This is a work in progress that I’m continuously updating. Thank you for visiting, and I hope you find my projects interesting!
 
 
 ## Data Analytics
@@ -16,7 +16,7 @@ Welcome to my Portfolio!
 ## LLM Application
 | Project Link | Area | Project Description |
 | --- | --- | --- |
-| 📦 [LiA - LLM Based Interview Prep Tool](https://github.com/jrauvola/LIA) | LLM, GCP | The LiA project began with my personal journey into the data science field, where I recognized the dual benefits of interview preparation as both a learning tool and  a key to advancing in one’s career. Seeing the challenges that many face while preparing for data science interviews, I formed a team who shared my vision of how LLMs could streamline the process. Together, we developed LiA as our capstone project for our master’s degree. LiA is an AI-powered interview preparation tool designed to help users hone their skills and build confidence through tailored practice questions and feedback. By leveraging advanced natural language processing techniques, LiA connects users with relevant resources, making the interview preparation process more efficient and effective. |
+| 📦 [LiA - LLM Based Interview Prep Tool](https://github.com/jrauvola/LIA) | LLM, GCP | LiA is a LLM-powered interview preparation tool designed to help users hone their skills and build confidence through tailored practice questions and feedback. The LiA project began with my personal journey into the data science field, where I recognized the dual benefits of interview preparation as both a learning tool and  a key to advancing in one’s career. Seeing the challenges that many face while preparing for data science interviews, I formed a team who shared my vision of how LLMs could streamline the process. Together, we developed LiA as our capstone project for our master’s degree.  |
 
 
 
