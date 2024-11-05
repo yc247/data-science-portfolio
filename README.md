@@ -2,9 +2,6 @@
 
 Welcome to my portfolio! This is a work in progress that I’m continuously updating. Thank you for visiting, and I hope you find my projects interesting!
 
-
-## Data Analytics
-
 ## Machine Learning
 | Project Link | Area | Project Description |
 | --- | --- | --- |
