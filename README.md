@@ -5,12 +5,12 @@ Welcome to my portfolio! This is a work in progress that I’m continuously upda
 ## Machine Learning
 | Project Link | Area | Project Description |
 | --- | --- | --- |
-| 📦 [ Hotel Cancellation Prediction](https://github.com/yc247/data-science-portfolio/blob/main/machine-learning/Hotel_Cancellation_Prediction.ipynb) | EDA, Machine Learning | I conducted a comprehensive analysis of user churn by examining customer behavior, from data preprocessing to model deployment. I engineered features and implemented a model pipeline—including Random Forest, Boosting, and ANN—optimizing each to achieve high accuracy and recall. This project provided actionable insights that supported strategic decisions to reduce churn. |
+| 🏨 [ Hotel Cancellation Prediction](https://github.com/yc247/data-science-portfolio/blob/main/machine-learning/Hotel_Cancellation_Prediction.ipynb) | EDA, Machine Learning | I conducted a comprehensive analysis of user churn by examining customer behavior, from data preprocessing to model deployment. I engineered features and implemented a model pipeline—including Random Forest, Boosting, and ANN—optimizing each to achieve high accuracy and recall. This project provided actionable insights that supported strategic decisions to reduce churn. |
 
 ## Deep Learning & AI
 | Project Link | Area | Project Description |
 | --- | --- | --- |
-| 📦 [Date Format Conversion with RNN](https://github.com/yc247/data-science-portfolio/blob/main/deaplearning-ai/Date%20Conversion%20with%20RNN.ipynb) | RNN, Pytorch, Tensorflow | I developed encoder-decoder RNN models from scratch using PyTorch and TensorFlow to automate date format conversion. This project demonstrated my understanding of sequence-to-sequence modeling and my abilty to build neural networks from the ground up. |
+| ⏱️ [Date Format Conversion with RNN](https://github.com/yc247/data-science-portfolio/blob/main/deaplearning-ai/Date%20Conversion%20with%20RNN.ipynb) | RNN, Pytorch, Tensorflow | I developed encoder-decoder RNN models from scratch using PyTorch and TensorFlow to automate date format conversion. This project demonstrated my understanding of sequence-to-sequence modeling and my abilty to build neural networks from the ground up. |
 
 
 ## LLM Application
